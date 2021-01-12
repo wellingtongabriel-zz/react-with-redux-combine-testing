@@ -1,0 +1,23 @@
+#article-content div {
+    height: 80px;
+    background-color: white;
+    margin: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#article-content div strong {
+    font-family: Arial;
+    font-size: 15px;
+    display: block;
+}
+
+#article-content div span {
+    padding: 1%;
+    display: block;
+}
+
+#article-content div span strong {
+    text-transform: uppercase;
+}
